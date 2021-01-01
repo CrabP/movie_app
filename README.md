@@ -1,6 +1,6 @@
 # Movie App
 
-React JS
+Movie App with React JS
 
 
 # Getting Started with Create React App
